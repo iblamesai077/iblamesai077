@@ -10,9 +10,9 @@
   engineering in faculty of polytechnic akole 
   college.
 ♦️right now i am 19 years old and desperate about 
-  studies 
+  studies.                          
 ♦️i like to build uniqe, detailed and clean     
-  projects.
+  projects.                      
 ♦️coding is my passion ⭐.
 
 
