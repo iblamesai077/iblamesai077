@@ -1,4 +1,4 @@
-# 👋 HEY, I AM SAINATH BHOR ⚡
+# 👋 HEY, SAINATH BHOR HERE⚡
 polytechnic Student | Quick Learner | Devloper 
 ## About Me
 
