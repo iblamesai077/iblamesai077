@@ -1,4 +1,4 @@
-# Your Name Here
+# sainath bhor
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
@@ -6,7 +6,16 @@
 
 ## About Me
 
-Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
+♦️i am from akole,i am doing diploma in computer 
+  engineering in faculty of polytechnic akole 
+  college.
+♦️right now i am 19 years old and desperate about 
+  studies 
+♦️i like to build uniqe, detailed and clean     
+  projects.
+♦️coding is my passion ⭐.
+
+
 
 ---
 
