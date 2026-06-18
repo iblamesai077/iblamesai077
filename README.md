@@ -7,7 +7,7 @@ polytechnic Student | Quick Learner | Devloper
   college.         
 ♦️right now i am 19 years old and desperate about 
   studies.                          
-♦️i like to build uniqe, detailed and clean     
+♦️i enjoy to build uniqe, detailed and clean     
   projects.                      
 ♦️coding is my passion ⭐.
 
