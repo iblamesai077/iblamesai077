@@ -8,7 +8,7 @@
 
 ♦️i am from akole,i am doing diploma in computer 
   engineering in faculty of polytechnic akole 
-  college.
+  college.         
 ♦️right now i am 19 years old and desperate about 
   studies.                          
 ♦️i like to build uniqe, detailed and clean     
