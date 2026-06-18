@@ -1,6 +1,6 @@
 # sainath bhor
 
-### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
+### Aspiring developer | Polytechnic student | Python learner
 
 ---
 
