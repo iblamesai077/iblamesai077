@@ -25,6 +25,9 @@
 - ☕ Currently learning Java & GitHub
 - ⭐ Always exploring new technologies
 
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 <br>
 
 ## 🛠️ Tech Stack
