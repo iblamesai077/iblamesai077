@@ -16,9 +16,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:7F00FF&height=180&section=header"/>
 
+## 🚀 About Me
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
 
 ✨ I am **Sainath Bhor** from **Akole, Maharashtra, India**
 
