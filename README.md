@@ -76,18 +76,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iblamesai077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
 ## 📈 Contribution Graph
 
 <div align="center">
