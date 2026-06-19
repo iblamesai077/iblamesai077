@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Sainath+Bhor+⚡;Diploma+Computer+Engineering+Student;Python+Developer;Building+Cool+Projects+🚀;Always+Learning+New+Things+⭐" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
 </p>
 
 <h1 align="center">👋 Hey, I'm Sainath Bhor ⚡</h1>
