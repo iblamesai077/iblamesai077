@@ -10,14 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=iblamesai077&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 </p>
 
+## 🌌 About Me
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-
-
-
-
-## 🌌 About Me
 
 - 📍 From Akole, Maharashtra, India
 - 🎓 Diploma in Computer Engineering
