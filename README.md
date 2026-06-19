@@ -100,7 +100,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🌪️ Contribution Pac-man
 
 ###
 
