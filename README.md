@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Sainath+Bhor+⚡;Diploma+Computer+Engineering+Student;Python+Developer;Building+Cool+Projects+🚀;Always+Learning+New+Things+⭐" />
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
 </p>
 
 <h1 align="center">👋 Hey, I'm Sainath Bhor ⚡</h1>
@@ -12,23 +10,25 @@
   <img src="https://komarev.com/ghpvc/?username=iblamesai077&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 </p>
 
-## 🌌 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=header"/>
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+## 🌌 About Me
 
 - 📍 From Akole, Maharashtra, India
-- 🎓 Diploma in Computer Engineering
+- 🎓 Diploma in Computer Engineering at Faculty of Polytechnic, Akole
 - 🚀 Passionate about Coding & Technology
 - 💡 Love building unique and clean projects
 - 🐍 Python Enthusiast
-- ☕ Currently learning Java & GitHub
+- ☕ Learning Java, Git & GitHub
 - ⭐ Always exploring new technologies
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
 </p>
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,9 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode" />
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -44,7 +46,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=iblamesai077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -58,7 +62,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iblamesai077&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## 📈 Contribution Activity
 
@@ -66,7 +72,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblamesai077&theme=tokyo-night"/>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## 🚀 Current Projects
 
@@ -76,7 +84,9 @@ A command-line application that manages student marks, calculates averages, assi
 ### 🌟 GitHub Profile
 A modern GitHub README showcasing my coding journey and projects.
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## 🌐 Connect With Me
 
@@ -90,7 +100,9 @@ A modern GitHub README showcasing my coding journey and projects.
 </a>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3f8d-6f8f-45c4-9f14-2aee95d5b5d7.gif">
+</p>
 
 ## ⚡ Fun Fact
 
@@ -101,10 +113,7 @@ while(alive){
     learn();
     repeat();
 }
-
---- 
 ```
 <h2 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h2><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 </p>
-
