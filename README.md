@@ -1,42 +1,104 @@
-# 👋 HEY, SAINATH BHOR HERE⚡
-polytechnic Student | Quick Learner | Devloper 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Sainath+Bhor+⚡;Diploma+Computer+Engineering+Student;Python+Developer;Building+Cool+Projects+🚀;Always+Learning+New+Things+⭐" />
+</p>
 
-♦️i am from akole,i am doing diploma in computer 
-  engineering in faculty of polytechnic akole 
-  college.         
-♦️right now i am 19 years old and desperate about 
-  studies.                          
-♦️i enjoy to build uniqe, detailed and clean     
-  projects.                      
-♦️coding is my passion ⭐.
+<h1 align="center">👋 Hey, I'm Sainath Bhor ⚡</h1>
 
+<h3 align="center">💻 Diploma Computer Engineering Student | 🚀 Developer | ⭐ Quick Learner</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iblamesai077&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+</p>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🌌 About Me
+
+- 📍 From Akole, Maharashtra, India
+- 🎓 Diploma in Computer Engineering
+- 🚀 Passionate about Coding & Technology
+- 💡 Love building unique and clean projects
+- 🐍 Python Enthusiast
+- ☕ Currently learning Java & GitHub
+- ⭐ Always exploring new technologies
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iblamesai077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ---
 
-## Skills
+## 📊 GitHub Statistics
 
-| Skill        | Level        |
-|--------------|--------------|
-| Python       | Intermediate |
-| Git & GitHub | Beginner     |
-| Markdown     | Beginner     |
-| java         | Beginner     |
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iblamesai077&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamesai077&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblamesai077&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iblamesai077&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iblamesai07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhorsai12@gmail.com) 
+## 🚀 Current Projects
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iblamesai077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=iblamesai077&theme=dark&hide_border=false)<br/>
-## Current Projects
+### 📚 Grade Buddy
+A command-line application that manages student marks, calculates averages, assigns grades, and generates report cards.
 
-- **Grade Buddy** — a command-line app that tracks test scores and generates a report card.
-- **GitHub Profile** — this very page, my first Markdown website.
+### 🌟 GitHub Profile
+A modern GitHub README showcasing my coding journey and projects.
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:bhorsai12@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/iblamesai07">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    learn();
+    repeat();
+}
+
+---
+
+<h2 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h2><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+</p>
+```
