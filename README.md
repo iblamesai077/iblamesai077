@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Sainath Bhor ⚡
 
-### 🚀 Diploma Computer Engineering Student | Python Developer | Lifelong Learner
+### 🚀 Diploma Computer Engineering Student | Python Developer | Lifelong Learner | Web devloper
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Computer+Engineering+Student;Building+Projects+Every+Day;Future+Software+Engineer+🚀" />
 
